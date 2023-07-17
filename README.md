@@ -5,7 +5,8 @@
 - Internet -> Router -> Switch -> Server
                                -> CPU
                                -> CPU
-
+  
+////////////////////////////////////////////
 + Cloud is the metaphor for the internet.
 + It is maintained outside the organisation.
 + It cuts costs and simplifies IT focus.
