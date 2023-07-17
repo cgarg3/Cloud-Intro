@@ -11,15 +11,15 @@ ii) It is maintained outside the organisation.
 iii) It cuts costs and simplifies IT focus.
 
 ------ PROS -------
-i) Hosted applications
-ii) Used as data storage
-iii) can be access everywhere.
+1. Hosted applications
+2. Used as data storage
+3. can be access everywhere.
 
 
 ----- CONS ------
-i) internet outages
-ii) Site access
-iii) sensative data
+1. internet outage
+2. Site access
+3. sensative data
 
 
   
