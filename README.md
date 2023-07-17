@@ -16,5 +16,10 @@ ii) Used as data storage
 iii) can be access everywhere.
 
 
+----- CONS ------
+i) internet outages
+ii) Site access
+iii) sensative data
+
 
   
