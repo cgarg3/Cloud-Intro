@@ -1,1 +1,20 @@
+Cloud Infrastructure:
 
+1. Full virtualisation
+  + Unique applications
+  + Different operating systems
+  + One way to access services on the cloud
+
+2. Ideal for
+  + Sharing computer system among multiple users
+  + isolating users from each other.
+  + emulating hardwares on another machines
+
+3. Paravirtualisation
+  + multiple operating systems run on other devices simultaneously
+  + not all elements need be emulated.
+  + allows for better scaling
+
+4. Ideal for the purpose of 
+  + disaster recovery
+  + migration
