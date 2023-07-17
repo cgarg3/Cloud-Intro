@@ -1,0 +1,47 @@
+Cloud Services:
+  + shared resources
+  + large scalability
+  + low barriers to entry
+  + device independence
+
+SaaS (Software as a service)
+  + access via internet using a browser.
+  + hosted applications
+  + customer pays for the access
+
+SaaS Benefits:
+  + cost savings
+  + lower learning curve
+  + security
+  + staff savings
+  + customarisation
+  + reliability
+
+SaaS Obstacles
+  + unique needs
+  + portability
+  + competition from open source applications.
+
+Saas Examples
+  + Salesforce.com
+  + google apps
+  + microsoft 365
+  + quickbooks online
+  + zoom
+
+SaaS (Storage for a service)
+  + similar to SaaS
+  + store specific data
+     - Flickr
+     - Photos on Mac
+  + store any data
+    - dropbox
+    - hightail
+
+HaaS (Hardware as a service)
+1. Infrastrcuture as a service
+2. Offers hardware instead of applications
+3. customer determines data upload
+4. Example:
+    i) Amazon S3
+    ii) Amazon EC2
